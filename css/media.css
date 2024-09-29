@@ -1,0 +1,300 @@
+@media only screen and (max-width: 1200px) {
+    .banner-section-box-para3 {
+        margin-top: -8.5%;
+        margin-left: 17%;
+        font-size: 12px;
+    }
+
+    .banner-section-round-colour-para {
+        font-size: 35px;
+    }
+
+    .banner-section-round-colour-para2 {
+        margin-left: 25px;
+    }
+
+    .sale-box {
+        margin-left: 90px;
+    }
+
+    .sale-box2-select {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    .sale-box2-ratting {
+        margin-left: -10px;
+    }
+
+    .system-box {
+        width: 80%;
+        height: 590px;
+    }
+
+    .system-box-list-box {
+        margin-top: 10px;
+    }
+
+    .system-box-list-box2 {
+        margin-left: -30px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .banner-section-box-para2 {
+        font-size: 22px;
+    }
+
+    .banner-section-box-para3 {
+        margin-top: -40px;
+        margin-left: 16%;
+        font-size: 11px;
+    }
+
+    .banner-section-round-colour {
+        width: 60px;
+        height: 60px;
+        margin-left: 5px;
+        background: linear-gradient(to bottom,
+                #4970E7,
+                #29D2B5);
+    }
+
+    .banner-section-round-colour-para {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 6px;
+    }
+
+    .banner-section-round-colour-para2 {
+        font-size: 8px;
+        margin-top: -6px;
+        margin-left: 10px;
+    }
+
+    .banner-section-round {
+        width: 60px;
+        height: 60px;
+        margin-left: 60px;
+    }
+
+    .content-section-box-member {
+        width: 20%;
+    }
+
+    .content-section-box-member-name {
+        font-size: 15px;
+        margin-top: -40px;
+        margin-left: 60px;
+    }
+
+    .content-section-box-member-name2 {
+        font-size: 12px;
+        margin-top: -20px;
+        margin-left: 60px;
+    }
+
+    .sale-box {
+        margin-left: 70px;
+    }
+
+    .sale-box2-ratting {
+        margin-left: -50px;
+    }
+
+    .sale-box2-ratting-mitter {
+        margin-left: 50px;
+    }
+
+    .sale-box2-ratting-mitter2 {
+        margin-left: 10px;
+    }
+
+    .sale-box2-ratting-mitter3 {
+        margin-left: 10px;
+    }
+
+    .sale-box2-ratting-mitter9 {
+        margin-left: 5px;
+    }
+
+    .sale-box2-select {
+        margin-top: 20px;
+    }
+
+    .system-box {
+        width: 80%;
+        height: 660px;
+    }
+    .celebration-icon{
+        width: 20%;
+    }
+    .email-icon-para{
+        margin-top: -30px;
+        margin-left: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .banner-section-box-icon{
+        width: 10%;
+    }
+    .banner-section-box-para{
+        margin-top: -50px;
+    }
+    .content-section-box-member-name{
+        margin-left: 30%;
+    }
+    .content-section-box-member-name2{
+        margin-left: 30%;
+    }
+    .banner-section-image{
+        margin-top: 10px;
+        margin-left: 20%;
+    }
+    .banner-section-box{
+        margin-top: 10px;
+    }
+    .banner-section-box-para3{
+        margin-left: 50%;
+    }
+    .banner-section-round{
+        margin-left: 30%;
+    }
+    .banner-section-mordern-hadding{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .sale-box{
+        margin-left: 35px;
+    }
+    .team-section-box-marketing-button{
+        font-size: 20px;
+    }
+    .boxxxx{
+        margin-top: 10px;
+    }
+    .about-us-section-savetime-box-hadding{
+        font-size: 20px;
+        margin-top: 20%;
+    }
+    .about-boxxx{
+        width: 100%;
+        display: inline-block;
+        margin-left: -70px;
+    }
+    .sale-box2-select{
+        margin-left: -20px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .about-us-section-savetime-flex{
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 421px){
+    .banner-section-image{
+        margin-top: 10px;
+        margin-left: 55px;
+    }
+    .banner-section-box{
+        margin-top: 10px;
+    }
+    .banner-section-box-para2{
+        font-size: 30px;
+    }
+    .banner-section-box-para3{
+        margin-left: 60%;
+        font-size: 15px;
+    }
+    .banner-section-round{
+        margin-left: 30%;
+    }
+    .banner-section-mordern-hadding{
+        margin-top: 20px;
+        text-align: center;
+        font-size: 28px;
+    }
+    .banner-section-mordern-para{
+        text-align: center;
+        font-size: 14px;
+    }
+    .banner-section-mordern-button{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .content-section-box-hadding{
+        text-align: center;
+        font-size: 30px;
+    }
+    .content-section-box-para{
+        text-align: center;
+    }
+    .sale-box{
+        margin-left: 30px;
+    }
+    .sale-box2-para2{
+        margin-top: -25px;
+    }
+    .sale-box2-select{
+        margin-left: -90px;
+        margin-bottom: 10px;
+    }
+    .system-box{
+        margin-left: 30px;
+    }
+    .system-box-list-box2{
+        margin-left: 100px;
+        margin-top: -60px;
+    }
+    .system-box-list-box{
+        margin-top: 20px;
+    }
+    .team-section-hadding{
+        text-align: center;
+    }
+    .team-section-para{
+        margin-top: 10px;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .celebration-icon{
+        width: 30%;
+    }
+    .team-section-box-marketing-button{
+        font-size: 10px;
+    }
+    .team-section-box-sale-button{
+        font-size: 15px;
+    }
+    .boxxxx{
+        margin-top: 10px;
+    }
+    .team-section-hadding2{
+        font-size: 28px;
+        text-align: center;
+    }
+    .team-section-hadding3{
+        font-size: 28px;
+        text-align: center;
+    }
+    .about-us-section-savetime-flex{
+        width: 100%;
+    }
+    .sale-box2{
+        width: 100%;
+        padding: 2%;
+    }
+    .sale-box2-para{
+        font-size: 15px;
+        margin-left: -10px;
+    }
+    .sale-box2-para2{
+        margin-left: 10px;
+    }
+    .sale-box2{
+        margin-left: 10px;
+    }
+}
